@@ -24,5 +24,15 @@ Master skills
 [![My Skills](https://skillicons.dev/icons?i=nodejs,java,js,html,vue,docker,vim,linux,git)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
+
+```text
+Vue.js       12 hrs 7 mins   ███████████░░░░░░░░░░░░░░   43.45 %
+JavaScript   8 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.84 %
+Arduino      6 hrs 18 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
+JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+C++          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+```
+
 <!--END_SECTION:waka-->
 

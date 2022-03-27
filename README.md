@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm kirin, an interest-driven developer and university student.
+- interested in system programming now, welcom to discuss csapp with me
+- Expected to graduate from NUIST 2022
+- familiar with microcontroller and web-backend projects
+
+Master skills
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,js,html,vue,docker,vim,linux,git)](https://skillicons.dev)
+

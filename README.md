@@ -26,12 +26,8 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-Arduino      57 mins         ██████████████░░░░░░░░░░░   55.37 %
-Python       41 mins         ██████████░░░░░░░░░░░░░░░   39.86 %
-Markdown     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Arduino      57 mins         ████████████████████████▓   98.90 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->

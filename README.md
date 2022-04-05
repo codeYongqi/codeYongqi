@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm kirin, an interest-driven developer and university student.
 - Interested in system programming now, welcome to discuss 《csapp》 with me
 - Expected to graduate from NUIST 2022
-- Familiar with microcontroller and web-backend projects
+- Familiar with microcontroller and web-backend projects...
 
 Master skills
 

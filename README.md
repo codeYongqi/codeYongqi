@@ -26,9 +26,7 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-Java    5 hrs 55 mins   ████████████████████████▓   98.86 %
-C++     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java   4 hrs 25 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

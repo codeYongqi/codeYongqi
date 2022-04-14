@@ -26,7 +26,7 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-Java   38 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -26,7 +26,8 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   17 mins         ██████████████▒░░░░░░░░░░   56.82 %
+Vue.js       13 mins         ██████████▓░░░░░░░░░░░░░░   43.18 %
 ```
 
 <!--END_SECTION:waka-->

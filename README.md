@@ -26,9 +26,8 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-C         1 hr 51 mins    ████████████▓░░░░░░░░░░░░   50.60 %
-JSON      1 hr 37 mins    ███████████░░░░░░░░░░░░░░   44.20 %
-Arduino   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+C      4 hrs 47 mins   ██████████████████▓░░░░░░   74.76 %
+JSON   1 hr 37 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
 ```
 
 <!--END_SECTION:waka-->

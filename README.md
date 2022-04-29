@@ -26,8 +26,8 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-C      4 hrs 47 mins   ██████████████████▓░░░░░░   74.76 %
-JSON   1 hr 37 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
+C      5 hrs 36 mins   ███████████████████▒░░░░░   77.57 %
+JSON   1 hr 37 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
 ```
 
 <!--END_SECTION:waka-->

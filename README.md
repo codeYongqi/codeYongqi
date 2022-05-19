@@ -26,10 +26,11 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-Python       7 hrs 32 mins   ███████████████████████░░   92.04 %
-JavaScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Arduino      17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python       8 hrs           ██████████████▓░░░░░░░░░░   58.44 %
+JavaScript   5 hrs 37 mins   ██████████▒░░░░░░░░░░░░░░   41.03 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->

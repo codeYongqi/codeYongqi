@@ -26,10 +26,9 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   18 hrs 47 mins  █████████████████████▓░░░   86.35 %
-Python       1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-C            1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JavaScript   18 hrs 47 mins  ███████████████████████░░   91.81 %
+C            1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->

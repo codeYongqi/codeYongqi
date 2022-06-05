@@ -26,11 +26,9 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-Python       8 hrs 17 mins   ████████████████████████░   96.13 %
-Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Text         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     5 hrs 38 mins   ████████████████████████▓   99.16 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -26,8 +26,7 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-Python     3 hrs 50 mins   ████████████████████████▓   98.77 %
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Markdown   2 mins          █████████████████████████   100.00 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 

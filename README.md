@@ -26,10 +26,7 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-C++          2 hrs 11 mins   ██████████████████▓░░░░░░   74.72 %
-Python       24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-JavaScript   19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+C++   39 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

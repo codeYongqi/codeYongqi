@@ -26,7 +26,10 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-Python   5 hrs 8 mins    █████████████████████████   100.00 %
+Python       5 hrs 8 mins    ████████████████████████▒   97.33 %
+Vue.js       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

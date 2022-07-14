@@ -26,10 +26,7 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       20 mins         ███████████████████░░░░░░   75.50 %
-Rust         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
-JavaScript   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Rust   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

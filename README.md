@@ -26,7 +26,9 @@ Master skills
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C++    2 hrs 15 mins   ███████████████████▒░░░░░   77.84 %
+Rust   21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+C      16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
 ```
 
 <!--END_SECTION:waka-->
